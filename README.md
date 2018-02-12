@@ -8,7 +8,7 @@ Here are the scripts built in frames of the following courses of Alex Barth (htt
 * Karman_filter.py / Application of the Kalman filter to correct a path of a random buoy
 * SSH_to_geostrophic_currents.py / Recalculation of sea surface elevations to currents
 * Wave_energy_integration_shallow_water.py / The examination exercise for the Structure and Application of Numerical Ocean Models. Studying, how a change in domain discretization will affect the integrated wave energy, behaving accordig to the 1D system of shallow water equation.
-* Wave_energy_integration_shallow_water / The examination exercise for the Ocean Data Assimilation. Application of the Kalman filter on the 1D shallow water equation system for restoration of the correct shape of a wave trapped inside of a domain in order to explore its efficiency as a function of the time step, availability of data and a random error in the observations.
+* Shallow_water_Karman_filter.py / The examination exercise for the Ocean Data Assimilation. Application of the Kalman filter on the 1D shallow water equation system for restoration of the correct shape of a wave trapped inside of a domain in order to explore its efficiency as a function of the time step, availability of data and a random error in the observations.
 
 ocean_his_surf.nc / 
 ssh_20071127.nc / 
